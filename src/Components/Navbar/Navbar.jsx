@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
-import './NavbarCSS.css'
+import "./NavbarCSS.css";
 export const Navbar = () => {
   return (
     <div className="navbar">
